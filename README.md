@@ -4,7 +4,7 @@ This repository provides a ready-to-use set of configuration files and setup ins
 
 > **Note:**  
 > This setup is a personal project and may not be fully polished. Some configurations and scripts are adapted from community sources.  
-> **Use at your own risk!** If you encounter issues, troubleshooting may be required.
+> **Use at your own risk!** If you encounter issues, GOOD LUCK Troubleshooting! o.o sorry mate ! i myself have no clue what the issue maybe!.
 
 ---
 
@@ -106,6 +106,7 @@ Install these packages with `sudo apt install`:
 - If Polybar or Compton fails, check `~/.xsession-errors`.
 - For display issues, re-run `arandr` and update startup scripts.
 - Missing fonts or icons? Install additional packages as needed.
+- You can use this to learn or understand stuff but this project itself is not perfect.
 
 ---
 
